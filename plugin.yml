@@ -1,0 +1,29 @@
+name: BAMCB
+author: plocki, BuildAndMine Development
+version: 1.0
+api-version: 1.15
+main: de.buildandmine.cbsystem.main.Main
+commands:
+  coins:
+  money:
+  coin:
+  ecoadminmoney:
+  job:
+  jobs:
+  tpa:
+  tpaccept:
+  warp:
+  setwarp:
+  setspawn:
+  spawn:
+  wb:
+  workbench:
+  sign:
+  repair:
+  kopf:
+  skull:
+  pay:
+  rename:
+  ec:
+  enderchest:
+  heal:
